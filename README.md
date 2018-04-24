@@ -4,7 +4,7 @@ stdout.
 
 Why not use `nc` you ask? It doesn't handle multiple concurrent connections.
 
-Why not `inetd`? Well, this is a lot simpler and took me two minutes to write.
+Why not `inetd` or `ncat`? Well, this is a lot simpler and took me two minutes to write.
 
 # Supported tags and respective `Dockerfile` links
 
